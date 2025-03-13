@@ -34,7 +34,7 @@
    - -a/A - pokazuje ukryte pliki
    - -t - sortuje według czasu
    - Wynik to pokolei: <br>
-![image](https://github.com/user-attachments/assets/eca35059-9907-41d5-aba1-bb058172f78a)
+[image](https://github.com/user-attachments/assets/eca35059-9907-41d5-aba1-bb058172f78a)
 1. **Uprawnienia pliku**
 2. **Liczba łączy**
 3. **ID użytkownika**
