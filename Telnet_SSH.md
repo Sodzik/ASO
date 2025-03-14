@@ -25,6 +25,6 @@
 - **sudo apt install openssh-server** - instalujemy demona **SSH**
 - **sudo /etc/init.d/ssh restart** - uruchamiamy demona **SSH**
 ### Krok 4
-- **sudo shh *nazwa użytkownika*@*IP serwera* -p 22** - klient sprawdza połączenie połączenie z serwerem
+- **sudo ssh *nazwa użytkownika*@*IP serwera* -p 22** - klient sprawdza połączenie połączenie z serwerem
 ### Krok 5
 - Zakończ sesje SSH za pomocą komendy **exit**
