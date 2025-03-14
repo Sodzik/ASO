@@ -1,13 +1,13 @@
 # Apache
 ## Przygotowanie
 - **sudo apt-get install build-essential** - instaluje dodatki niezbędne do pracy apache
-- **sudo apt-get apache2** - instaluje usługę *Apache*
+- **sudo apt-get install apache2** - instaluje usługę *Apache*
 - **sudo systemctl start apache2** - uruchamia usługę *Apache*
 - **sudo systemctl status apache2** - sprawdza działanie usługi *Apache*
 - **sudo hostname -I** - sprawdza czy Apache poprawnie działa i nasłuchuje adres IP
 ## Tworzenie
 Teraz strona Apache2 jest wyświetlana przez przeglądarke internetową pod adresem **`http://IP serwera`**, **`http://localhost`** oraz **`http://127.0.0.1`**
-1. **sudo mkdir /var/www/sampledomain.com/html -p*** - tworzy folder html z brakującymi katalogami (-p)
+1. **sudo mkdir /var/www/sampledomain.com/html -p** - tworzy folder html z brakującymi katalogami (-p)
 2. **sudo nano /var/www/sampledomain.com/html/index.html** - tworzy plik index.html
 3. **sudo chown -R 755 /var/ww/sampledomain.com** - przypisuje własność katalogu
 ## Konfiguracja
