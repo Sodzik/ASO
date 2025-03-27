@@ -7,7 +7,7 @@
 ## Użytkownik w Linuxie
 - **/etc/passwd** - podstawowa baza użytkowników
 - **/etc/shadow** - plik haseł zakodowanych
-- **/etc/group **- baza danych grup
+- **/etc/group**- baza danych grup
 - **/etc/gshadow** -  plik haseł zakodowanych dla grup
 ### /etc/passwd
 1. Nazwa użytkownika
